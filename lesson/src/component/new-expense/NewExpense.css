@@ -1,0 +1,44 @@
+.LisConteiner {
+  width: 780px;
+  height: 287px;
+  border-radius: 12px;
+  background-color: #3f3f3f;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.formConteiner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 10px 40px;
+}
+
+.divButton {
+  display: flex;
+  gap: 14px;
+  margin: 0px 0px 0px 450px;
+}
+
+.divButtonAdd {
+  /* width: 780px;
+  height: 91px;
+  border-radius: 12px;
+  background-color: #3f3f3f;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+  width: 780px;
+  height: 91px;
+  background-color: #AD9BE9;
+  margin-top:257px;
+  Left:330px;
+  border-radius:12px;
+}
+/* .divButtonAdd:hover{
+  background-color: black;
+} */
+
